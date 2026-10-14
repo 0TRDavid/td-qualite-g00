@@ -1,6 +1,6 @@
 # Dossier go/no-go : migration des données consolidées vers le CRM
 
-Groupe : [À COMPLÉTER]  ·  Date de remise : [À COMPLÉTER]  ·  Étiquette : `rendu-final`
+Groupe : N°0  ·  Date de remise : [À COMPLÉTER]  ·  Étiquette : `rendu-final`
 
 Destinataire : la Directrice Générale. Registre : un rapport court, sans jargon, quatre pages au plus hors annexes. Chaque chiffre renvoie à une preuve du dépôt (livrable de séance, requête, fichier).
 
