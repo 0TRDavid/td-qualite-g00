@@ -26,21 +26,21 @@ Réconciliation RQ-021 (comptage) et RQ-022 (somme de contrôle), pour le lot me
 
 | Table bronze | Lignes source | Lignes bronze | Écart de comptage | Écart de somme de contrôle |
 |---|---|---|---|---|
-| crm_client | … | … | … | … |
-| crm_contrat | … | … | … | … |
-| crm_sinistre | … | … | … | … |
-| crm_type_contrat | … | … | … | … |
-| cif_clients | … | … | … | … |
-| cif_compte | … | … | … | … |
-| cif_pays | … | … | … | … |
+| crm_client | 100000 | 100000 | 0 | 100% |
+| crm_contrat | 100000 | 100000 | 0 | 100% |
+| crm_sinistre | 100000 | 100000 | 0 | 100% |
+| crm_type_contrat | 12 | 12 | 0 | 100% |
+| cif_clients | 40000 | 40000 | 0 | 100% |
+| cif_compte | 45000 | 45000 | 0 | 100% |
+| cif_pays | 250 | 250 | 0 | 100% |
 
 Épreuves de la porte (à documenter, avec la preuve de chacune) :
 
 | Épreuve | Résultat obtenu | Preuve |
 |---|---|---|
-| Relance du même lot : doublons créés | … | … |
-| Écart introduit volontairement sur une copie : la porte échoue-t-elle ? | … | … |
-| Un problème de conversion rencontré (décimales, NULL, accents) et sa correction | … | … |
+| Relance du même lot : doublons créés | non | ![alt text](image.png) |
+| Écart introduit volontairement sur une copie : la porte échoue-t-elle ? | 1 écart | voir diapositive |
+| Un problème de conversion rencontré (décimales, NULL, accents) et sa correction | non | … |
 
 ## 3. Profil de crm.client (US-06, US-07)
 
