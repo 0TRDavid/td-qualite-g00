@@ -83,9 +83,9 @@ Preuve (notebook, requête) : notebooks/S1_bronze_profilage.ipynb
 
 | Direction | Définition utilisée | Nombre de clients | Écart avec la définition de la fiche CD-001 |
 |---|---|---|---|
-| Commerciale | Un client à au moins un contrat | 50508 | … |
-| Sinistres | Un client à un contract actif par rapport à la date de référence | 44116 | … |
-| Risques | Un client à un contract actif par rapport à la date de référence et une cotisation sur les trois derniers mois | 38049 | … |
+| Commerciale | Un client à au moins un contrat | 50508 | +12459 |
+| Sinistres | Un client à un contract actif par rapport à la date de référence | 44116 | +6067 |
+| Risques | Un client à un contract actif par rapport à la date de référence et une cotisation sur les trois derniers mois | 38049 | 0 |
 
 Conséquence pour la gouvernance, en trois phrases : Cela empêche la direction d'avoir une vision unifiée du chiffre d'affaires potentiel et de piloter les activités. De plus, cela impose de créer d'urgence un dictionnaire de données  définissant un socle commun tout en documentant ces différentes spécificitées.
 
