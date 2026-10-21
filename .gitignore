@@ -20,6 +20,7 @@ __pycache__/
 
 # Great Expectations : résultats locaux
 **/uncommitted/
+reports/ge
 
 # Système
 .DS_Store
