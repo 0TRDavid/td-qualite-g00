@@ -1,6 +1,6 @@
 # Équipe
 
-Groupe : [À COMPLÉTER]  ·  Dépôt : [À COMPLÉTER]
+Groupe : N°0  ·  Dépôt : https://github.com/0TRDavid/td-qualite-g00
 
 ## Membres et rôles
 
@@ -8,9 +8,10 @@ Les rôles tournent à chaque séance : celui qui décide en S1 n'est pas celui 
 
 | Membre | Identifiant git | S1 | S2 | S3 | S4 | S5 |
 |---|---|---|---|---|---|---|
-| … | … | … | … | … | … | … |
-| … | … | … | … | … | … | … |
-| … | … | … | … | … | … | … |
+| AMY Léo | LeoAugustinAmy | Rédacteur du livrable | … | … | … | … |
+| MENY Nicolas | Tastycoole | Ingénieur qualité | … | … | … | … |
+| OUERGHEMNI Mongi | mongi-ouerghemmi | Ingénieur qualité | … | … | … | … |
+| TRUONG David | 0TRDavid | Data Owner | … | … | … | … |
 
 Rôles possibles : `Data Owner` (décide des seuils et du GO), `Data Steward` (définit les règles et leur sévérité), `Ingénieur qualité` (mesure et implémente), `Rédacteur du livrable`.
 
