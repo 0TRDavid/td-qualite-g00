@@ -1,18 +1,18 @@
 # Avancement du groupe
 
-Groupe : [À COMPLÉTER]
+Groupe : N°0  ·  Dépôt : https://github.com/0TRDavid/td-qualite-g00
 
 Mettez à jour ce tableau à chaque fin de séance (et dès qu'une story change d'état). Statut : `À faire`, `En cours`, `Fait`, `Bloqué`. La preuve est un chemin du dépôt (notebook, fichier de checks, requête) ou une commande ; pas de preuve, pas de `Fait`.
 
 | Séance | Story | Intitulé | Statut | Preuve (chemin ou commande) | Remarque |
 |---|---|---|---|---|---|
-| S1 | US-01 | Inventorier les sources | À faire | … | |
-| S1 | US-02 | Alimenter bronze | À faire | … | |
-| S1 | US-03 | Porte B : réconcilier source et bronze | À faire | … | |
-| S1 | US-04 | Dictionnaire du CIF | À faire | … | |
-| S1 | US-06 | Profil de crm.client | À faire | … | |
-| S1 | US-07 | Motifs code postal, téléphone, pays | À faire | … | |
-| S1 | US-09 | Trois définitions du client actif | À faire | … | |
+| S1 | US-01 | Inventorier les sources | Fait | notebooks/S1_bronze_profilage.ipynb | |
+| S1 | US-02 | Alimenter bronze | Fait | notebooks/S1_bronze_profilage.ipynb | |
+| S1 | US-03 | Porte B : réconcilier source et bronze | Fait | notebooks/S1_bronze_profilage.ipynb | |
+| S1 | US-04 | Dictionnaire du CIF | Fait | notebooks/S1_bronze_profilage.ipynb | |
+| S1 | US-06 | Profil de crm.client | Fait | notebooks/S1_bronze_profilage.ipynb | |
+| S1 | US-07 | Motifs code postal, téléphone, pays | Fait | notebooks/S1_bronze_profilage.ipynb | |
+| S1 | US-09 | Trois définitions du client actif | Fait | notebooks/S1_bronze_profilage.ipynb | |
 | S2 | US-10 | Règles en tests Great Expectations | À faire | … | |
 | S2 | US-11 | Lignes en échec | À faire | … | |
 | S2 | US-13 | Âge à la date de début du contrat | À faire | … | |
