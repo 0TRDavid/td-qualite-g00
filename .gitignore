@@ -32,3 +32,5 @@ Thumbs.db
 # ARM
 jupyter/Dockerfile
 
+#Ignorer le fichier lock
+~*
